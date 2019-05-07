@@ -1,9 +1,4 @@
-Instructions 
-	To start:
-		Hit the commence buttun
-	Next
-		See which team made it to the final
-		make your bets and hit the button.
-	Final Selection
-		Make your final decision 
-		Hit the button to simulate final round.
+First, click the commence button. 
+Second, see which team made it to the final bracket. 
+Third, make your bets and click the button. 
+Finally, make your final decision and click simulate to simulate the final round.
